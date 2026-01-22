@@ -1,6 +1,6 @@
-# Dee Linux (fictional) landing page
+# Dee Linux landing page
 
-This is a static site (HTML/CSS/JS) for the fictional "Dee Linux" distro concept.
+This is a static site (HTML/CSS/JS) for the "Dee Linux" distro concept.
 
 ## Run locally
 Just open `index.html` in your browser, or use a simple server:
